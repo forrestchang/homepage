@@ -1,0 +1,13 @@
+.utterances {
+  max-width: 1000px;
+}
+
+.comments {
+  margin-top: 50px;
+}
+
+@media screen and (min-width: 544px)
+.timeline-header {
+    padding-left: 60px;
+    text-align: center;
+}
